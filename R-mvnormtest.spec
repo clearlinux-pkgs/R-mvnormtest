@@ -4,7 +4,7 @@
 #
 Name     : R-mvnormtest
 Version  : 0.1.9
-Release  : 33
+Release  : 34
 URL      : https://cran.r-project.org/src/contrib/mvnormtest_0.1-9.tar.gz
 Source0  : https://cran.r-project.org/src/contrib/mvnormtest_0.1-9.tar.gz
 Summary  : Normality test for multivariate variables
